@@ -30,7 +30,7 @@ function FetchFile {
         $f = Read-Host "enter file path"
         CheckQ $f
         $f = $f.replace('"','')
-    } while (-not (Test-Path -path $f))
+    } while ($f -eq '' -or -not (Test-Path -path $f))
     return $f
 }
 
