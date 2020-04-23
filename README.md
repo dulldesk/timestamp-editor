@@ -28,5 +28,5 @@ This script has been tested on Windows 10.
 
 If running scripts is disabled on your system:
 - Enter `Set-ExecutionPolicy -scope CurrentUser bypass` into the shell. This will allow the script to run.
-- Retry step 3
+- Retry step 2
 - You may wish to re-disable scripts once more by entering `Set-ExecutionPolicy -scope CurrentUser default`
