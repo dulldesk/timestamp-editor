@@ -20,7 +20,7 @@ This script has been tested on Windows 10.
 
 ## How to run
 
-1. Clone the repository via `git clone https://github.com/dulldesk/timestamp-editor.git`, or download and unzip it via `https://github.com/dulldesk/timestamp-editor/archive/master.zip`.
+1. Clone the repository via `git clone https://github.com/dulldesk/timestamp-editor.git`, or download and unzip it via https://github.com/dulldesk/timestamp-editor/archive/master.zip .
 2. Right-click `ts-edit-cli.ps1` > Run with PowerShell, or
     1. Open PowerShell
     2. Enter the full file path to the script (`C:\path\to\ts-edit-cli.ps1`)
