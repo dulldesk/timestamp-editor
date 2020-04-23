@@ -22,11 +22,11 @@ This script has been tested on Windows 10.
 
 1. Clone the repository via `git clone https://github.com/dulldesk/timestamp-editor.git`, or download and unzip it via `https://github.com/dulldesk/timestamp-editor/archive/master.zip`.
 2. Right-click `ts-edit-cli.ps1` > Run with PowerShell, or
-3. Open PowerShell
-4. Enter the full file path to the script (`C:\path\to\ts-edit-cli.ps1`)
-5. Follow the shell instructions.
+    1. Open PowerShell
+    2. Enter the full file path to the script (`C:\path\to\ts-edit-cli.ps1`)
+3. Follow the shell instructions.
 
 If running scripts is disabled on your system:
 - Enter `Set-ExecutionPolicy -scope CurrentUser bypass` into the shell. This will allow the script to run.
-- Try step 4 again.
+- Retry step 3
 - You may wish to re-disable scripts once more by entering `Set-ExecutionPolicy -scope CurrentUser default`
